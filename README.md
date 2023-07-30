@@ -79,7 +79,7 @@ title:      HTTP首部字段一览
 subtitle:   通用首部、请求首部、响应首部、实体首部
 date:       2023-07-16
 author:     LBX
-header-img: img/bg-material.jpg
+header-img: /img/bg-material.jpg
 catalog: true
 tags:
     - HTTP

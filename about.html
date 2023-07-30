@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "「他单纯只想把日子过得不浪费」"
-header-img: "img/home-bg-o.jpg"
+description: "「只想把日子过得不浪费」"
+header-img: "/img/home-bg-o.jpg"
 header-mask: 0
 multilingual: true
 ---
@@ -46,3 +46,27 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+		clientID: `89dd26d4cc9cc7d512f9`,
+		clientSecret: `0561201d77372bd5cb5e65de63b0573838153e5f`,
+		repo: `https://github.com/lotus-moon-0/lotus-moon-0.github.io/`,
+		owner: 'lotus-moon-0',
+		admin: ['lotus-moon-0'],
+		id: 'window.location.pathname',
+    
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
