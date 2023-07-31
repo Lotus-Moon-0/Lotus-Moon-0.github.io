@@ -1,6 +1,6 @@
 #Home
 home:
-  description: 「Together for a Shared Future.」
+  description: 「Together for a Shared Future」
   header-img: img/home-bg-3.jpg
 #About
 about:
@@ -8,5 +8,13 @@ about:
   header-img: img/home-bg-o.jpg
 #Archive
 archive:
-  description: 「我干了什么 究竟拿了时间换了什么」
+  description: 「若要左手换右手 不如停妻又娶妻」
   header-img: img/bg-little-universe.jpg
+
+404:
+  description: 你来到了没有知识的荒原 :(
+  header-img: img/404-bg.jpg
+
+offline:
+  description: 阅读过的页面可以在离线时访问哦 ;)
+  header-img: img/404-bg.jpg
