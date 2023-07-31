@@ -67,13 +67,14 @@ kramdown:
 # Comments settings
 comments: true
 # Gitalk settings
+# 发完 Blog，自己先打开一下，初始化 Gitalk
 gitalk:
   enable: true
   clientID: 89dd26d4cc9cc7d512f9
   clientSecret: 0561201d77372bd5cb5e65de63b0573838153e5f
   repo: Lotus-Moon-0.github.io
   owner: Lotus-Moon-0
-  admin: Lotus-Moon-0
+  admin: ['Lotus-Moon-0', 'DLM-BFC-DLM']
   proxy: https://cors-server-ecru.vercel.app/github_access_token
 
 # Netease settings

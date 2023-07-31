@@ -1,3 +1,5 @@
+# 不知为何，不能工作，以后发Blog，自己先查看
+
 # This file is quoted from: https://draveness.me/git-comments-initialize/ by Lotus Moon
 # 感谢 draveness 的分享
 
