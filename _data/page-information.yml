@@ -1,0 +1,12 @@
+#Home
+home:
+  description: 「Together for a Shared Future.」
+  header-img: img/home-bg-3.jpg
+#About
+about:
+  description: 「只想把日子过得不浪费」
+  header-img: img/home-bg-o.jpg
+#Archive
+archive:
+  description: 「我干了什么 究竟拿了时间换了什么」
+  header-img: img/bg-little-universe.jpg

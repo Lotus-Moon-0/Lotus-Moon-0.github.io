@@ -213,6 +213,9 @@
   margin: 1em;
   width: 160px;
   overflow: hidden;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
   user-select: none;
   color: #000000;
   text-transform: uppercase;
@@ -727,6 +730,7 @@ img.shadow {
 }
 select {
   -webkit-appearance: none;
+  appearance: none;
   margin-top: 15px;
   color: #337ab7;
   border-color: #337ab7;
