@@ -90,6 +90,7 @@ img.shadow {
 // Select
 select {
   -webkit-appearance: none;
+  appearance: none;
   margin-top: 15px;
   color: #337ab7;
   border-color: #337ab7;
@@ -375,6 +376,17 @@ samp {
     &:hover {
       color: rgba(255, 255, 255, 0.8);
     }
+    //add by Lotus Moon on 2023/8/4 START
+    img {
+      display: inline-block;
+      height: 16px;//height - 2 * padding
+      vertical-align: baseline;
+    }
+    p{
+      display: inline;
+      vertical-align: baseline;
+    }
+    //add END
   }
   .nav {
     li {
@@ -942,9 +954,9 @@ img::-moz-selection {
   &:first-child {
     margin-top: 0px;
   }
-  hr:last-of-type {
+  //hr:last-of-type {
     //display: none;
-  }
+  //}
 }
 .listing-seperator {
   color: #0085a1;
