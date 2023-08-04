@@ -8,7 +8,8 @@ description: '这里是 @荷边赏月 的个人博客，与你一起发现更大
 keyword: "荷边赏月, 荷边赏月的博客, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计, Lotus Moon's Blog, Lotus Moon"
 url: 'https://lotus-moon-0.github.io' # your host, for absolute URL
 baseurl: '' # for example, '/blog' if your blog hosted on 'host/blog'
-
+# Post's last modify time
+modify_time: 20230801
 
 # Publish posts or collection documents with a future date.
 future: true
