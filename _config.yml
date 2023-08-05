@@ -98,6 +98,11 @@ ba_track_id: dd9761aaf8166618d79b999ab965fd10
 # ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 # ga_domain: huangxuan.me
 
+# Url submission settings
+# Bing
+bing:
+  enable: true
+  APIkey: ff54051e11b8486a80b6f11c22d71b54
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
