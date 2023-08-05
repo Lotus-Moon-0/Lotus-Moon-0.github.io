@@ -8,7 +8,7 @@
     header.intro-header{
         position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else if site.data.page-information[page.ID].header-img %}{{site.data.page-information[page.ID].header-img}}{% else %}{{ site.header-img }}{% endif %}');
-        background: {{ page.header-bg-css }};
+        {% if page.header-bg-css %}background: {{ page.header-bg-css }};{% endif %}
     }
 
     {% if page.header-mask %}
