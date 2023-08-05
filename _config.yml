@@ -79,6 +79,11 @@ gitalk:
   admin: Lotus-Moon-0
   proxy: https://cors-server-ecru.vercel.app/github_access_token
 
+# Valine settings
+valine:
+  enable: true
+  appId: UWb6V29lCon7qUCDRtBZz5Q6-gzGzoHsz
+  appKey: DBJBwVi3DIzNMqgDda09opd7
 # Netease settings
 netease:
   enable: false
@@ -129,10 +134,6 @@ page-mathjax: false
 #     { title: "尹峰以为", href: "http://ingf.github.io/" },
 #   ]
 
-keep_files:
-  [
-    bing.js
-  ]
 
 # Theme
 # theme: merlot

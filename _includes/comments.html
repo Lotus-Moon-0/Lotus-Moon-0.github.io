@@ -29,6 +29,27 @@
 {% endif %}
 
 
+{% if site.valine.enable %}
+<!-- Valine 支持文件 start -->
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<!-- Valine 支持文件 end -->
+
+<!-- Valine 评论框 start -->
+<div id="vcomments"></div>
+<!-- Valine 评论框 end -->
+
+<!-- Valine JS代码 start -->
+<script>
+  new Valine({
+      el: '#vcomments',
+      appId: '{{ site.valine.appId }}',
+      appKey: '{{ site.valine.appKey }}'
+  })
+</script>
+<!-- Valine JS代码 end -->
+{% endif %}
+
+
 {% if site.netease.enable %}
 <!-- 网易云跟帖 评论框 start -->
 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
