@@ -1,7 +1,8 @@
 ---
 layout: null
 ---
-{% if site.bing.enable %}POST /webmaster/api.svc/pox/SubmitUrlBatch?apikey={{ site.bing.APIkey }} HTTP/1.1
+{% if site.bing.enable %}<?xml version="1.0" encoding="UTF-8"?>
+POST /webmaster/api.svc/pox/SubmitUrlBatch?apikey={{ site.bing.APIkey }} HTTP/1.1
 Content-Type: application/xml; charset=utf-8
 Host: ssl.bing.com
 
