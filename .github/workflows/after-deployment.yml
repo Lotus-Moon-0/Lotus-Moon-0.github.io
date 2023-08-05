@@ -10,20 +10,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16-nightly
-      - name: Install dependencies
-        run: |
-          npm install
-          npm install --save xml-js
       - name: Sleep for 2 minutes
         run: sleep 120s
         shell: bash
-      - name: Push urls
-        uses: 3Alan/search-engines-urls-push@v0.2.3
-        with:
-          site: ${{ secrets.SITE }}
-          sitemap: ${{ secrets.UPDATEDURLS }}
-          bing-token: ${{ secrets.BING_TOKEN }}
