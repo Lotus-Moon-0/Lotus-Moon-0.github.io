@@ -1,20 +1,15 @@
+name: Send urls to Bing
 on:
   push:
     branches:
       - main
 
 jobs:
-  commit:
+  Commit:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v3
-      - name: Sleep for 3 minutes
-        run: sleep 180s
+      - name: Sleep for 2 minutes
+        run: sleep 120s
         shell: bash
-      - name: push urls
-        uses: 3Alan/search-engines-urls-push@v0.2.3
-        with:
-          site: ${{ secrets.SITE }}
-          sitemap: ${{ secrets.UPDATEDURLS }}
-          bing-token: ${{ secrets.BING_TOKEN }}
