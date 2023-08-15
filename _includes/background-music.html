@@ -1,0 +1,21 @@
+{% if page.bgm %}
+<audio id="bGMusic" src="{{ page.bgm }}" loop="true" controls autoplay="true"></audio>
+
+<script>
+  var bgm = document.getElementById("bGMusic"), interval1
+  function setVolume(){
+    bgm.volume = 0.0
+    interval1 = setInterval(
+      function(){
+        bgm.volume = bgm.currentTime / 40
+        // console.log(bgm.currentTime / 40)
+        if(bgm.volume >= 0.25){
+          clearInterval(interval1)
+          }
+      },
+    500)
+  }
+
+  setVolume()
+</script>
+{% endif %}
