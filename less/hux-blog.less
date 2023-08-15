@@ -1110,3 +1110,48 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+// add by Lotus Moon on 2023/8/6
+.plate-button{
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #337ab7;
+  border: 1px solid #337ab7;
+  padding: 0em 0.4em;
+  position:relative;//使其宽度为::before的计算标准
+  background: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all;
+  transition-duration:0.2s;
+  &.sel-comnt {
+    min-height: 28px;
+    font-size: 14px;
+  }
+  &:hover{
+    background-color: #337ab7;
+    color:#ffffff;
+    &::before{
+      left:5%;
+      width:0;
+      background-color: #337ab7;
+      color:#ffffff;
+    }
+  }
+  &::before{
+    content:"点击以改变";
+    position: absolute;
+    top:50%;
+    left:50%;
+    width: 95%;
+    background-color: #ffffff;
+    white-space: nowrap;
+    overflow: hidden;
+    transform:translate(-50%, -50%);
+    transition: all;
+    transition-duration:0.2s;
+    
+  }
+}

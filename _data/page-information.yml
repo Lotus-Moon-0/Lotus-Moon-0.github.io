@@ -18,3 +18,7 @@ archive:
 offline:
   description: 阅读过的页面可以在离线时访问哦 ;)
   header-img: img/404-bg.jpg
+
+talk:
+  description: 「畅所欲言」
+  header-img: img/bg-talk.jpg
