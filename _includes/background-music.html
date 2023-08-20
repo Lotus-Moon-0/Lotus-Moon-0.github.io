@@ -1,5 +1,5 @@
-{% if page.bgm %}
-<audio id="bGMusic" src="{{ page.bgm }}" loop="true" controls autoplay="true"></audio>
+{% if page.bgmId %}
+<audio id="bGMusic" src="http://music.163.com/song/media/outer/url?id={{ page.bgmId }}.mp3" loop="true" controls autoplay="true"></audio>
 
 <script>
   var bgm = document.getElementById("bGMusic"), interval1
