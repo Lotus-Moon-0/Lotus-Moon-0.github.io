@@ -13,16 +13,14 @@ tags:
   - Cats
 ---
 
-## Cats, Babies, and Neon Lights - *Supernormal Stimulus*
-
 Nowadays, more and more people keep cats as their pets. But why is petting these lazy furry warm hairballs so comforting for humans? And why did humans’ ancestors choose them to pet? According to Deirdre Barrett, a Ph.D. in Harvard Medical School and the Past President of the American Psychological Association’s Div. 30, The Society for Psychological Hypnosis.[1], the wire-puller might be a phenomenon called *supernormal stimulus* (or *supernormal stimuli*).
 
-### What is *supernormal stimulus*?
+## What is *supernormal stimulus*?
 
 It is a kind of special (usually artificial) stimuli that can trigger an instinctual response more powerfully than a natural stimuli would. To put it simply, animals are sensitive with certain features. The more obvious these features are, the stronger response these features set off.  
 <a href="https://ibb.co/rf8wVZj"><img src="https://i.ibb.co/LhjZ3CF/supernormal-9.png" alt="supernormal-9" border="0"></a>
 
-### Cats Vs. Human Babies
+## Cats Vs. Human Babies
 
 While cats and human babies are different in many ways, the two are similar in terms of their facial appearance and behavior.
 
@@ -32,7 +30,7 @@ Since about 10,000 years ago, as a research published in Scientific American[2] 
 On the other hand, cats and human babies are similar because of their behavior. Babies cries at a certain frequency, which would effectively attract their parents. Likewise, cats usually meow at the same frequency when wanting to get their owner’s attention. Surprisingly, when a new baby arrives a family, some cats may meow more in order to express the jealousy they feel. These are probably the results of evolution and adaptation.  
 <a href="https://ibb.co/ThM0SHX"><img src="https://i.ibb.co/6s0tx4h/Cat-Vocalizations-2.jpg" alt="Cat-Vocalizations-2" border="0" style="display:inline"></a><a href="https://ibb.co/FYqgmsX"><img src="https://i.ibb.co/pKrJbWQ/Cat-Vocalizations-1.jpg" alt="Cat-Vocalizations-1" border="0" style="display:inline"></a>
 
-### What does *supernormal stimulus* do in daily life?
+## What does *supernormal stimulus* do in daily life?
 
 So far, *supernormal stimulus* plays an important role in feline-human relationship. In fact, *supernormal stimulus* takes part in your life far more commonly these years. Things including well-designed eye-catching advertisements, dazzling TV programs, junk food full of salt, oil and sugar, etc. are all constantly provoking your brains, gradually causing strong impact. It is argued that the overuse of superstimuli may lead to entertainment addiction, especially in TV programs, computer games, shopping promotion and so on.
 
@@ -57,7 +55,7 @@ At the moment, you may want to turn off the glowing screen in front of your face
 
 So, next time when you fondle your cat, you may know better about why and how you are so deeply effected by what you see everyday.
 
-### References
+## References
 
 <p class="text-muted">[1]: Deirdre Barrett. “Supernormal Stimuli in the Media.” <i>Evolution and the Media</i>. Edited by Jerome Barkow. Oxford University Press, Jan. 2015. <a href="http://dx.doi.org/10.1007/978-3-319-16999-6_94-1" target="_blank" alt="DOI-1">dx.doi.org/10.1007/978-3-319-16999-6_94-1</a>.</p>
 <p class="text-muted">[2]: Carlos A Driscoll, Juliet Clutton-Brock J, Andrew C Kitchener, Stephen J. O'Brien S J. “The Taming of the Cat.” Scientific American, Jun. 2009. <a href="http://dx.doi.org/10.1038/scientificamerican0609-68" target="_blank" alt="DOI-2">dx.doi.org/10.1038/scientificamerican0609-68</a>.</p>
