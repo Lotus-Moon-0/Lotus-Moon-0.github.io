@@ -59,5 +59,5 @@ So, next time when you fondle your cat, you may know better about why and how yo
 
 ### References
 
-<p class="text-muted">[1]: Deirdre Barrett. “Supernormal Stimuli in the Media.” *Evolution and the Media*. Edited by Jerome Barkow. Oxford University Press, Jan. 2015. <a href="http://dx.doi.org/10.1007/978-3-319-16999-6_94-1" target="_blank" alt="DOI-1">dx.doi.org/10.1007/978-3-319-16999-6_94-1</a>.</p>
+<p class="text-muted">[1]: Deirdre Barrett. “Supernormal Stimuli in the Media.” <i>Evolution and the Media</i>. Edited by Jerome Barkow. Oxford University Press, Jan. 2015. <a href="http://dx.doi.org/10.1007/978-3-319-16999-6_94-1" target="_blank" alt="DOI-1">dx.doi.org/10.1007/978-3-319-16999-6_94-1</a>.</p>
 <p class="text-muted">[2]: Carlos A Driscoll, Juliet Clutton-Brock J, Andrew C Kitchener, Stephen J. O'Brien S J. “The Taming of the Cat.” Scientific American, Jun. 2009. <a href="http://dx.doi.org/10.1038/scientificamerican0609-68" target="_blank" alt="DOI-2">dx.doi.org/10.1038/scientificamerican0609-68</a>.</p>
