@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cats, Babies & Neon Lights
-subtitle: Supernormal Stimulus
+subtitle: <i>Supernormal Stimulus</i>
 date: 2023-08-21
 author: Lotus Moon
 header-img: img/post-bg-catbaby.jpg
@@ -18,7 +18,7 @@ Nowadays, more and more people keep cats as their pets. But why is petting these
 ## What is *supernormal stimulus*?
 
 It is a kind of special (usually artificial) stimuli that can trigger an instinctual response more powerfully than a natural stimuli would. To put it simply, animals are sensitive with certain features. The more obvious these features are, the stronger response these features set off.  
-<a href="https://ibb.co/rf8wVZj"><img src="https://i.ibb.co/LhjZ3CF/supernormal-9.png" alt="supernormal-9" border="0"></a>
+<a href="https://ibb.co/XxXL5K2"><img src="/img/inPost/SS/supernormal-9.png" alt="supernormal-9" border="0"></a>
 
 ## Cats Vs. Human Babies
 
@@ -28,7 +28,7 @@ Since about 10,000 years ago, as a research published in Scientific American[2] 
 <a href="https://ibb.co/Q8VwJdt"><img src="https://i.ibb.co/vsWncYR/cat-sight.jpg" alt="cat-sight" border="0" style="display:inline"></a>
 <a href="https://ibb.co/Nsstxz7"><img src="https://i.ibb.co/c11kJdx/cat-nose.jpg" alt="cat-nose" border="0" style="display:inline"></a>  
 On the other hand, cats and human babies are similar because of their behavior. Babies cries at a certain frequency, which would effectively attract their parents. Likewise, cats usually meow at the same frequency when wanting to get their owner’s attention. Surprisingly, when a new baby arrives a family, some cats may meow more in order to express the jealousy they feel. These are probably the results of evolution and adaptation.  
-<a href="https://ibb.co/ThM0SHX"><img src="https://i.ibb.co/6s0tx4h/Cat-Vocalizations-2.jpg" alt="Cat-Vocalizations-2" border="0" style="display:inline"></a><a href="https://ibb.co/FYqgmsX"><img src="https://i.ibb.co/pKrJbWQ/Cat-Vocalizations-1.jpg" alt="Cat-Vocalizations-1" border="0" style="display:inline"></a>
+<a href="https://ibb.co/dJFTMq7"><img src="/img/inPost/SS/Cat-Vocalizations.jpg" alt="Cat-Vocalizations" border="0" style="display:inline"></a>
 
 ## What does *supernormal stimulus* do in daily life?
 
@@ -45,7 +45,7 @@ So far, *supernormal stimulus* plays an important role in feline-human relations
 > -*God Bless You, Mr. Rosewater*
 
 Moreover, as the stimuli continues, it will start to become weaker, so people will need a more powerful hit to feel “entertained”. Now, drown in the ocean of millions of short videos and various of phone games, people are able to get instantly accessible comfort. Even during a small break, their attention can be tightly drawn to that world full of neon lights.  
-<a href="https://ibb.co/LgTQHKr"><img src="https://i.ibb.co/GMZsNm9/ads-1.jpg" alt="ads-1" border="0" style="display:inline"></a><a href="https://ibb.co/pXdC3pK"><img src="https://i.ibb.co/zfZKSw2/ads-2.jpg" alt="ads-2" border="0" style="display:inline"></a>  
+<a href="https://ibb.co/Mpd79kB"><img src="/img/inPost/SS/neon-city.jpg" alt="neon-city" border="0" style="display:inline"></a>  
 Also, *supernormal stimulus* can make neuron system seriously under tension, but not muscular system. “Eyes remained focused, the body is still and directed toward the set, but learning and memory drop to lower levels than when not orienting.” said Rothschild, a psychology researcher, and his/her colleagues.
 
 >“You are alone in the dark, staring at a plastic box. This is like a science fiction horror story...”(Whitedot.org, 1996)  
