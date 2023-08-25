@@ -1155,3 +1155,23 @@ img::-moz-selection {
     
   }
 }
+.img-caption {
+  display: inline-block;
+  position: relative;/* 用于absolute定位 */
+  left: 50%;
+  top: 100%;
+  transform:translate(-50%, 0);/* 回退宽高的一半 */
+  text-align: center;
+  text-decoration: none;
+  padding: 0 0 10px 10px;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  &::after{
+    content: " ";
+    position: absolute;
+    right: 100%;/* 最左端 */
+    top: 15%;
+    border: 5px solid;
+    border-color: transparent transparent #444444 transparent;/* 只有右边显示边框，即显示为一个向左小角 */
+  }
+}

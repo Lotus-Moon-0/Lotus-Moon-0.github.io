@@ -18,7 +18,7 @@ Nowadays, more and more people keep cats as their pets. But why is petting these
 ## What is *supernormal stimulus*?
 
 It is a kind of special (usually artificial) stimuli that can trigger an instinctual response more powerfully than a natural stimuli would. To put it simply, animals are sensitive with certain features. The more obvious these features are, the stronger response these features set off.  
-<a href="https://ibb.co/XxXL5K2"><img src="/img/inPost/SS/supernormal-9.png" alt="supernormal-9" border="0"></a>
+<a href="https://ibb.co/XxXL5K2"><img src="/img/inPost/SS/supernormal-9.png" alt="supernormal-9" border="0"><span class="img-caption text-muted">How <i>Supernormal Stimulus</i> effects songbirds.</span></a>
 
 ## Cats Vs. Human Babies
 
