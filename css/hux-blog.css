@@ -1733,7 +1733,7 @@ img::-moz-selection {
   color: #ffffff;
 }
 .plate-button::before {
-  content: "点击以改变";
+  content: "点击以更换评论插件";
   position: absolute;
   top: 50%;
   left: 50%;
