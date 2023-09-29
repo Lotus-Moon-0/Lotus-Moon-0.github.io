@@ -18,7 +18,7 @@ Nowadays, more and more people keep cats as their pets. But why is petting these
 ## What is supernormal stimulus?
 
 It is a kind of special (usually artificial) stimuli that can trigger an instinctual response more powerfully than a natural stimuli would. To put it simply, animals are sensitive with certain features. The more obvious these features are, the stronger response these features set off.  
-<a href="https://ibb.co/XxXL5K2"><img src="/img/inPost/SS/supernormal-9.png" alt="supernormal-9" border="0"><span class="img-caption text-muted">How <i>Supernormal Stimulus</i> effects songbirds.</span></a>
+<a href="https://ibb.co/XxXL5K2"><img src="/img/inPost/SS/supernormal-9.png" alt="supernormal-9" border="0"><span class="img-caption text-muted">How supernormal stimulus effects songbirds.</span></a>
 
 ## Cats Vs. Human Babies
 
@@ -45,7 +45,7 @@ So far, supernormal stimulus plays an important role in feline-human relationshi
 > -*God Bless You, Mr. Rosewater*
 
 Moreover, as the stimuli continues, it will start to become weaker, so people will need a more powerful hit to feel “entertained”. Now, drown in the ocean of millions of short videos and various of phone games, people are able to get instantly accessible comfort. Even during a small break, their attention can be tightly drawn to that world full of neon lights.  
-<a href="https://ibb.co/Mpd79kB"><img src="/img/inPost/SS/neon-city.jpg" alt="neon-city" border="0" style="display:inline"><span class="img-caption text-muted">The world of neon lights, a place you can easily lose yourself.</span></a>  
+<a href="https://ibb.co/Mpd79kB"><img src="/img/inPost/SS/neon-city.jpg" alt="neon-city" border="0" style="display:inline"><span class="img-caption text-muted">The world of neon lights, a place where you can easily lose yourself.</span></a>  
 Also, supernormal stimulus can make neuron system seriously under tension, but not muscular system. “Eyes remained focused, the body is still and directed toward the set, but learning and memory drop to lower levels than when not orienting.” said Rothschild, a psychology researcher, and his/her colleagues.
 
 >“You are alone in the dark, staring at a plastic box. This is like a science fiction horror story...”(Whitedot.org, 1996)  
