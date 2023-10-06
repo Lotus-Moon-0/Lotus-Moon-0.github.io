@@ -1,5 +1,6 @@
 ---
 layout: post
+postID: NS
 title: 坚决抵制日本核污染水排海！
 subtitle: Resolutely resist Japan's discharge of nuclear-contaminated water!
 date: 2023-08-24
