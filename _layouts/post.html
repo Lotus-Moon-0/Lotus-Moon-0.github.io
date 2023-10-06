@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<!-- TODO: 点赞系统 -->
 
 <!-- Image to hack wechat -->
 <!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
@@ -29,6 +28,8 @@ layout: default
 
 				{{ content }}
 
+                <!-- Likes -->
+                {% include likes.html %}
                 <hr style="visibility: hidden;">
                 <ul class="pager">
                     {% if page.previous.url %}
