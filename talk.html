@@ -6,7 +6,7 @@ header-mask: 0
 ---
 
 
-{% if site.valine.enable %}
+
 <!-- Valine 支持文件 start -->
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <!-- Valine 支持文件 end -->
@@ -24,10 +24,10 @@ header-mask: 0
   })
 </script>
 <!-- Valine JS代码 end -->
-{% endif %}
 
 
-{% if site.gitalk.enable %}
+
+
 <!-- Gitalk 支持文件 start -->
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
@@ -53,4 +53,3 @@ header-mask: 0
   gitalk.render('gitalk-container');
 </script>
 <!-- Gitalk JS代码 end -->
-{% endif %}
