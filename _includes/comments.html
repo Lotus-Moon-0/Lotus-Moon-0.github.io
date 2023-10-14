@@ -1,9 +1,9 @@
 {% if site.comments %}
 
 <!-- Button to change comments -->
-<button class="plate-button sel-comnt" value="0" onclick="changeText(this.value, 1)">Gitalk | Github 用户评论</button>
+<button class="plate-button sel-comnt" value="0" onclick="changeText(this.value, 1)">Valine | 普通访客评论</button>
 <script>
-var text = {gitalk:'Gitalk | Github 用户评论',valine:'Valine | 普通访客评论'}, comments = ['gitalk-container', 'vcomments'], kind
+var text = {valine:'Valine | 普通访客评论', gitalk:'Gitalk | Github 用户评论'}, comments = ['vcomments', 'gitalk-container'], kind
 var $button = document.querySelector('.sel-comnt')
 function changeText(index, maxIndex){
   var temp = index
@@ -25,7 +25,7 @@ function changeText(index, maxIndex){
 <!-- Gitalk 支持文件 end -->
 
 <!-- Gitalk 评论框 start -->
-<div id="gitalk-container" style="display: block"></div>
+<div id="gitalk-container" style="display: none"></div>
 <!-- Gitalk 评论框 end -->
 
 <!-- Gitalk JS代码 start -->
@@ -53,7 +53,7 @@ function changeText(index, maxIndex){
 <!-- Valine 支持文件 end -->
 
 <!-- Valine 评论框 start -->
-<div id="vcomments" style="display: none"></div>
+<div id="vcomments" style="display: block"></div>
 <!-- Valine 评论框 end -->
 
 <!-- Valine JS代码 start -->
