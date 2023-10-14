@@ -805,7 +805,7 @@ samp {
   margin-top: 20px;
 }
 .post-container h2::before {
-  content: " ";
+  content: ' ';
   display: block;
   border-bottom: 1px solid #ececec;
   margin-top: 44px;
@@ -1718,22 +1718,16 @@ img::-moz-selection {
   transition: all;
   transition-duration: 0.2s;
 }
-.plate-button.sel-comnt {
-  min-height: 28px;
-  font-size: 14px;
-}
 .plate-button:hover {
   background-color: #337ab7;
   color: #ffffff;
 }
-.plate-button:hover::before {
-  left: 5%;
-  width: 0;
-  background-color: #337ab7;
-  color: #ffffff;
+.plate-button.sel-comnt {
+  min-height: 28px;
+  font-size: 14px;
 }
-.plate-button::before {
-  content: "点击以更换评论插件";
+.plate-button.sel-comnt::before {
+  content: '点击以更换评论插件';
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1744,6 +1738,12 @@ img::-moz-selection {
   transform: translate(-50%, -50%);
   transition: all;
   transition-duration: 0.2s;
+}
+.plate-button.sel-comnt:hover::before {
+  left: 5%;
+  width: 0;
+  background-color: #337ab7;
+  color: #ffffff;
 }
 .img-caption {
   display: inline-block;
@@ -1760,7 +1760,7 @@ img::-moz-selection {
   overflow-wrap: anywhere;
 }
 .img-caption::after {
-  content: " ";
+  content: ' ';
   position: absolute;
   right: 100%;
   /* 最左端 */
@@ -1768,4 +1768,11 @@ img::-moz-selection {
   border: 5px solid;
   border-color: transparent transparent #444444 transparent;
   /* 只有右边显示边框，即显示为一个向左小角 */
+}
+.invisible-button {
+  appearance: none;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: inherit;
 }

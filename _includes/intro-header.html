@@ -43,9 +43,9 @@
                         <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
-                    <h1>{{ page.title }}</h1>
+                    <h1 {% if page.title-color %}style="color:{{ page.title-color }}"{% endif %}>{{ page.title }}</h1>
                     {% comment %} always create a h2 for keeping the margin {% endcomment %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    <h2 class="subheading" {% if page.title-color %}style="color:{{ page.title-color }}"{% endif %}>{{ page.subtitle }}</h2>
                     <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
@@ -104,7 +104,7 @@
         {% else %}
         <div class="site-heading">
         {% endif %}
-          <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+          <h1 {% if page.title-color %}style="color:{{ page.title-color }}"{% endif %}>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
           <span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.data.page-information[page.ID].description }}{% endif %}</span>
         </div>
       </div>
