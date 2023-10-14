@@ -1,10 +1,10 @@
-@import 'variables.less';
-@import 'mixins.less';
-@import 'sidebar.less';
-@import 'side-catalog.less';
-@import 'snackbar.less';
-@import 'highlight.less';
-@import 'search.less';
+@import "variables.less";
+@import "mixins.less";
+@import "sidebar.less";
+@import "side-catalog.less";
+@import "snackbar.less";
+@import "highlight.less";
+@import "search.less";
 
 // Global Components
 
@@ -174,7 +174,7 @@ samp {
     }
   }
   h2::before {
-    content: ' ';
+    content: " ";
     display: block;
     border-bottom: 1px solid #ececec;
     margin-top: 44px;
@@ -379,7 +379,7 @@ samp {
     //add by Lotus Moon on 2023/8/4 START
     img {
       display: inline-block;
-      height: 16px; //height - 2 * padding
+      height: 16px;//height - 2 * padding
       vertical-align: baseline;
     }
     //add END
@@ -951,7 +951,7 @@ img::-moz-selection {
     margin-top: 0px;
   }
   //hr:last-of-type {
-  //display: none;
+    //display: none;
   //}
 }
 .listing-seperator {
@@ -1112,7 +1112,7 @@ img::-moz-selection {
 }
 
 // add by Lotus Moon on 2023/8/6
-.plate-button {
+.plate-button{
   -webkit-appearance: none;
   appearance: none;
   margin-top: 15px;
@@ -1120,65 +1120,58 @@ img::-moz-selection {
   color: #337ab7;
   border: 1px solid #337ab7;
   padding: 0em 0.4em;
-  position: relative; //使其宽度为::before的计算标准
+  position:relative;//使其宽度为::before的计算标准
   background: #ffffff;
   border-radius: 8px;
   cursor: pointer;
   transition: all;
-  transition-duration: 0.2s;
-  &:hover {
-    background-color: #337ab7;
-    color: #ffffff;
-  }
+  transition-duration:0.2s;
   &.sel-comnt {
     min-height: 28px;
     font-size: 14px;
-    &::before {
-      content: '点击以更换评论插件';
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 95%;
-      background-color: #ffffff;
-      white-space: nowrap;
-      overflow: hidden;
-      transform: translate(-50%, -50%);
-      transition: all;
-      transition-duration: 0.2s;
-    }
-    &:hover::before {
-      left: 5%;
-      width: 0;
+  }
+  &:hover{
+    background-color: #337ab7;
+    color:#ffffff;
+    &::before{
+      left:5%;
+      width:0;
       background-color: #337ab7;
-      color: #ffffff;
+      color:#ffffff;
     }
+  }
+  &::before{
+    content:"点击以更换评论插件";
+    position: absolute;
+    top:50%;
+    left:50%;
+    width: 95%;
+    background-color: #ffffff;
+    white-space: nowrap;
+    overflow: hidden;
+    transform:translate(-50%, -50%);
+    transition: all;
+    transition-duration:0.2s;
+    
   }
 }
 .img-caption {
   display: inline-block;
-  position: relative; /* 用于absolute定位 */
+  position: relative;/* 用于absolute定位 */
   left: 50%;
   top: 100%;
-  transform: translate(-50%, 0); /* 回退宽高的一半 */
+  transform:translate(-50%, 0);/* 回退宽高的一半 */
   text-align: center;
   text-decoration: none;
   padding: 0 0 10px 10px;
   max-width: 100%;
   overflow-wrap: anywhere;
-  &::after {
-    content: ' ';
+  &::after{
+    content: " ";
     position: absolute;
-    right: 100%; /* 最左端 */
+    right: 100%;/* 最左端 */
     top: 15%;
     border: 5px solid;
-    border-color: transparent transparent #444444 transparent; /* 只有右边显示边框，即显示为一个向左小角 */
+    border-color: transparent transparent #444444 transparent;/* 只有右边显示边框，即显示为一个向左小角 */
   }
-}
-// added by Lotus Moon on 2023/10/6
-.invisible-button {
-  appearance: none;
-  padding: 0;
-  margin: 0;
-  border: none;
-  background-color: inherit;
 }
