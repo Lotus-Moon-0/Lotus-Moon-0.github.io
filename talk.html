@@ -25,3 +25,32 @@ header-mask: 0
 </script>
 <!-- Valine JS代码 end -->
 {% endif %}
+
+
+{% if site.gitalk.enable %}
+<!-- Gitalk 支持文件 start -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+<!-- Gitalk 支持文件 end -->
+
+<!-- Gitalk 评论框 start -->
+<div id="gitalk-container" style="display: block"></div>
+<!-- Gitalk 评论框 end -->
+
+<!-- Gitalk JS代码 start -->
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+    clientID: '{{ site.gitalk.clientID }}',
+    clientSecret: '{{ site.gitalk.clientSecret }}',
+    repo: '{{ site.gitalk.repo }}',
+    owner: '{{ site.gitalk.owner }}',
+    admin: ['{{ site.gitalk.admin }}'],
+    id: window.location.pathname,
+    proxy: '{{ site.gitalk.proxy }}'
+  });
+  gitalk.render('gitalk-container');
+</script>
+<!-- Gitalk JS代码 end -->
+{% endif %}
