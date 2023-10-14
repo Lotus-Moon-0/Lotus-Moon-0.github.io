@@ -5,4 +5,23 @@ ID: talk
 header-mask: 0
 ---
 
-{% include comments.html %}
+<!-- {% include comments.html %} -->
+{% if site.valine.enable %}
+<!-- Valine 支持文件 start -->
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<!-- Valine 支持文件 end -->
+
+<!-- Valine 评论框 start -->
+<div id="vcomments" style="display: block"></div>
+<!-- Valine 评论框 end -->
+
+<!-- Valine JS代码 start -->
+<script>
+  new Valine({
+      el: '#vcomments',
+      appId: '{{ site.valine.appId }}',
+      appKey: '{{ site.valine.appKey }}'
+  })
+</script>
+<!-- Valine JS代码 end -->
+{% endif %}
