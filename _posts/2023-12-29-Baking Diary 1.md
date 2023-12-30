@@ -51,4 +51,4 @@ tags:
 ## 味道 | TASTE
 像大号趣〇多，一口气吃完一个就饱了。入口时巧克力、核桃、杏仁的香味和奶味都混合着爆发出来。边缘会比较脆，中间比较软，这是它的特色。
 ## 好啦，祝您今天有个好胃口~ | ENJOY~
-<a href="https://ibb.co/rxxnspD"><img src="https://i.ibb.co/VggXmCf/video-20231229-230846-00-00-00-00-00-30.gif" alt="video-20231229-230846-00-00-00-00-00-30" border="0"><span class="img-caption text-muted">焙烤延时摄影</span></a>
+<img src="https://cdn.jsdelivr.net/gh/lotus-moon-0/Baking-GIF/video_20231229_230846%2000_00_00-00_00_30.gif" alt="video-20231229-230846-00-00-00-00-00-30" border="0"><span class="img-caption text-muted">焙烤延时摄影</span>
