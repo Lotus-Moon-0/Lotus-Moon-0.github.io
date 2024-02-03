@@ -1,0 +1,130 @@
+---
+layout: gallery
+title: "Gallery"
+ID: gallery
+header-mask: 0
+---
+
+<section>
+  <h2>Baking Gallery</h2>
+</section>
+
+<div class="img-container">
+  {% for imgID in site.data.gallery %}
+  <img class="box" src="https://cdn.jsdelivr.net/gh/lotus-moon-0/Baking-GIF/{{ imgID }}" alt="{{ imgID }}" />
+  {% endfor %}
+</div>
+
+<script type="text/javascript">
+  /*创建动画 */
+  const randomColorBlock = document.querySelectorAll('.box');
+
+  const scrollTrigger = () => {
+    randomColorBlock.forEach((box) => {
+      if (box.offsetTop <= window.scrollY) {
+        box.classList.add('active')
+      } else {
+        box.classList.remove('active')
+      }
+    });
+  };
+
+  window.addEventListener('scroll', scrollTrigger);
+</script>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #111;
+    color: #fff;
+    overflow-x: hidden;
+  }
+
+  section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  section h2 {
+    font-size: 8vw;
+    font-weight: 500;
+  }
+
+  .img-container {
+    position: relative;
+    top: -250px;
+
+    width: 70vw;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5vw;
+  }
+
+  .img-container .box {
+    width: 20vw;
+    height: 20vw;
+    /* background-color: #fff; */
+    border-radius: 10px;
+    object-fit: cover;
+
+    position: relative;
+    top: 50vh;
+    transition: .5s;
+  }
+
+  .img-container .box:nth-child(3n + 1) {
+    transform: translate(-400px, 0) scale(0);
+  }
+
+  .img-container .box:nth-child(3n + 2) {
+    transform: translate(0, 400px) scale(0);
+  }
+
+  .img-container .box:nth-child(3n + 3) {
+    transform: translate(400px, 0) scale(0);
+  }
+
+  .img-container .box.active {
+    transform: translate(0, 0) scale(1);
+  }
+
+
+  @media screen and (max-width: 768px) {
+    .img-container {
+      top: -300px;
+    }
+
+    .img-container .box {
+      top: 25vh;
+    }
+
+    .img-container .box:nth-child(3n + 1) {
+      transform: translate(-100px, 0) scale(0);
+    }
+
+    .img-container .box:nth-child(3n + 2) {
+      transform: translate(0, 100px) scale(0);
+    }
+
+    .img-container .box:nth-child(3n + 3) {
+      transform: translate(100px, 0) scale(0);
+    }
+
+    .img-container .box.active {
+      transform: translate(0, 0) scale(1);
+    }
+  }
+</style>
