@@ -6,6 +6,7 @@ subtitle: <i>Supernormal Stimulus</i>
 date: 2023-08-21
 author: Lotus Moon
 header-img: img/post-bg-catbaby.jpg
+language: en
 catalog: true
 tags:
   - Essay

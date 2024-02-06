@@ -7,6 +7,7 @@ subtitle: Air Pollution
 date: 2023-10-14
 author: Lotus Moon
 header-img: img/post-bg-cleansky.jpg
+language: en
 catalog: false
 tags:
   - Essay
