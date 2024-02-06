@@ -5,8 +5,12 @@ ID: gallery
 header-mask: 0
 ---
 
+
 <section>
   <h2>Baking Gallery</h2>
+  <span id="busuanzi_container_page_pv" style="display:none">
+    已有人<span id="busuanzi_value_page_pv"></span>次驻留于此
+  </span>
 </section>
 
 <div class="img-container">
@@ -31,6 +35,10 @@ header-mask: 0
 
   window.addEventListener('scroll', scrollTrigger);
 </script>
+
+<!-- busuanzi -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 <style>
   * {
     margin: 0;
@@ -53,6 +61,7 @@ header-mask: 0
   section {
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
   }
