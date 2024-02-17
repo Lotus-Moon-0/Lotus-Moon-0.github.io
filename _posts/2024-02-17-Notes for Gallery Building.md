@@ -33,4 +33,3 @@ tags:
 <img src="/img/inPost/NfGB240217/屏幕截图(1305).png" alt="1305" />
 
 ## 四、git push
-<img src="/img/inPost/NfGB240217/屏幕截图(1306).png" alt="1306" />
