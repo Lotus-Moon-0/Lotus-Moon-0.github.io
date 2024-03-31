@@ -27,7 +27,7 @@ tags:
 <img src="/img/inPost/NfGB240217/屏幕截图(1303).png" alt="1303" />
 
 ## 三、编入
-1.在gallery.yml里在最前面paste  
+1.在gallery.yml里在最前面paste（这个图和下面那个图错了）  
 <img src="/img/inPost/NfGB240217/屏幕截图(1304).png" alt="1304" />  
 2.整理格式（加上每行结尾逗号，class="box", 闭上img标签），可用“更改所有匹配项”提高效率  
 <img src="/img/inPost/NfGB240217/屏幕截图(1305).png" alt="1305" />
