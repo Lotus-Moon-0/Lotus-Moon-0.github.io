@@ -10,7 +10,10 @@ about:
 archive:
   description: 「若要左手换右手 不如停妻又娶妻」
   header-img: img/bg-little-universe.jpg
-
+#Gallery
+gallery:
+  description: 「没有记录 就没有发生」
+  header-img: img/gallery-bg-bread.jpg
 404:
   description: 你来到了没有知识的荒原 :(
   header-img: img/404-bg.jpg
