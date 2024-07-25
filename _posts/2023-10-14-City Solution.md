@@ -8,7 +8,7 @@ date: 2023-10-14
 author: Lotus Moon
 header-img: img/post-bg-cleansky.jpg
 language: en
-catalog: false
+no-catalog: true
 tags:
   - Essay
   - English
@@ -23,7 +23,7 @@ Can you imagine: Sky is covered with brown gas. You can’t see anyone five mete
 
 The main pollutant of Beijing was PM2.5 sourced from sand storms and industrial emission. It normally just makes people cough, but it can actually damage peoples’ respiratory system to cause lung diseases. According to WHO, about 7,000,000 people die due to air pollution per year. People needed to wear masks to avoid inhaling damaging particles, especially during winter and autumn.
 
-When it comes to the whole picture of society, the impact is more obvious. Air pollution is against economic and social process. People can’t work if pollution level goes too high. As a result, state machinery was sometimes partly stuck in its heart. “Because of heavy smog, we have been stuck on this highway for three days! We should have finished this job two days ago!” said a freight driver from Jiangsu in 2016. To solve the problem, Chinese people started the largest afforestation project in the world, *the Green Great Wall Project*. From 1979, about 310,000 square kilometer of forests were planted, forming the Three-North Shelterbelt Forest gradually. An acre of forests can absorb sixty tons of dust annually. They also stop most sand storms.  
+When it comes to the whole picture of society, the impact is more obvious. Air pollution is against economic and social process. People can’t work if pollution level goes too high. As a result, state machinery was sometimes partly stuck in its heart. “Because of heavy smog, we have been stuck on this highway for three days! We should have finished this job two days ago!” said a freight driver from Jiangsu in 2016. To solve the problem, Chinese people started the largest afforestation project in the world, _the Green Great Wall Project_. From 1979, about 310,000 square kilometer of forests were planted, forming the Three-North Shelterbelt Forest gradually. An acre of forests can absorb sixty tons of dust annually. They also stop most sand storms.  
 <a href="https://ibb.co/zHZNT6H"><img src="/img/inPost/CSoB231014/afforestation.jpg" alt="afforestation" border="0"><span class="img-caption text-muted">The Three-North Shelterbelt Forest in Northern Hebei protects grassland ecosystems and maintains the ecological security of the Beijing-Tianjin-Hebei territory.</span></a>
 
 To mitigate the effects of industrial emission, Chinese government decided to relocate factories in Beijing. For instance, Shougang Group left Beijing, leaving its estate behind and then building new factories in Hebei province. The prevoius industry zones have been rebuilt to art zones, like 798, and sports centers for the 2022 Winter Olympics.  

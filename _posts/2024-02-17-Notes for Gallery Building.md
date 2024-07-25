@@ -1,12 +1,11 @@
 ---
 layout: post
-postID: NfGB240217
+postID: NoGB240217
 title: 更新画廊步骤的笔记
-subtitle: Notes for Gallery Building
+subtitle: Notes on Gallery Building
 date: 2024-02-17
 author: Lotus Moon
 header-img: img/home-bg-art.jpg
-catalog: true
 tags:
   - Note
   - Github

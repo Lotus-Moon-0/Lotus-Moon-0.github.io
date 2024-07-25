@@ -6,7 +6,6 @@ subtitle: Soft Chocolate Cookie
 date: 2023-12-29
 author: Lotus Moon
 header-img: img/post-bg-softcookie.jpg
-catalog: true
 bgmId: 26966450
 tags:
   - Baking
